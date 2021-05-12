@@ -39,4 +39,5 @@ public class RegistryProperties {
         this.type = type;
         return this;
     }
+
 }
